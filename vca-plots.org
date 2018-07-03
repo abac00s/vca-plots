@@ -1,0 +1,7 @@
+* Complex Functions as Transformations
+** Polynomials
+*** Cassinian Curves
+
+Modular plot of quadratic polynomial $p(x) = x^2 - 1$:
+
+[[file:2-2-cubic-mod.png]]
